@@ -1,4 +1,4 @@
-# npm-expansions
+# npm-ex
 
 What does n-p-m stand for?
 
